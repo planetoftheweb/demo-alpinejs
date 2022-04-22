@@ -1,5 +1,5 @@
 {
-  "extensions": ["codespaces-contrib.codeswing"],
+  "extensions": ["codespaces-contrib.codeswing, lostintangent.workspace-layout"],
   "postCreateCommand": "npm install",
   "postStartCommand": "npm start"
 }
